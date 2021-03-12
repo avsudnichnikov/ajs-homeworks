@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="70"
+   inkscape:export-xdpi="70"
+   inkscape:export-filename="C:\dev\netology\ajs-homeworks\modules\src\assets\logo.png"
+   width="800"
+   height="800"
+   version="1.1"
+   viewBox="0 0 800.00001 800.00001"
+   id="svg6"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.73362329"
+     inkscape:cx="488.69535"
+     inkscape:cy="462.12007"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 404.25,61.23532 C 305.15285,109.63125 193.7162,148.89069 102.6139,149.53434 158.56936,495.57403 190.67578,629.3014 404.25,738.76475 617.82422,629.3014 649.93064,495.57403 705.8861,149.53434 614.7838,148.89018 503.34715,109.62955 404.25,61.23532 Z"
+     fill="#1c8adb"
+     fill-rule="evenodd"
+     id="path2"
+     style="fill:#ffcc00;stroke-width:0.846912" />
+  <path
+     d="M 404.25,61.235286 V 400 H 658.57761 C 675.63018,331.08933 689.77869,249.13961 705.88526,149.53431 614.78296,148.89015 503.3463,109.63291 404.24915,61.235286 Z M 404.25,400 H 149.92239 C 192.10876,570.48335 252.15311,660.81496 404.25,738.76472 Z"
+     fill-opacity=".31437"
+     fill-rule="evenodd"
+     id="path4"
+     style="opacity:1;fill:#28170b;fill-opacity:1;stroke-width:0.846912" />
+</svg>

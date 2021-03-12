@@ -1,0 +1,1 @@
+### ajs-homeworks-array-buffer

@@ -1,0 +1,34 @@
+.DS_Store
+node_modules
+dist
+doc
+
+# coverage
+lib-cov
+coverage
+
+# local env files
+/storage/*.key
+.env
+.env.test
+.env.backup
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Created by .ignore support plugin (hsz.mobi)
